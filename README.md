@@ -1,2 +1,9 @@
-# learnCplusplusPrimer
-Notes of learning C++ Primer 4th edition 
+# learnCppCoding
+Notes of C/C++ learning
+
+## contents
+- C++ programing tools
+- Cmake
+- C coding
+- Algorithms
+- useful packages
