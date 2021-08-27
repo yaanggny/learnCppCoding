@@ -1,0 +1,1 @@
+g++ -I. -I.\test .\Singleton.cpp .\main.cpp .\test\test_singleton.cpp -std=c++11
